@@ -15,3 +15,5 @@ This repository contains modified configuration files and scripts used to build 
 **Hostnam:** 0Svm
 
 **WWW:** https://vm.0ut3r.space
+
+**Software list:** [software](software.md)

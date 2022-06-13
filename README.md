@@ -17,5 +17,3 @@ This repository contains modified configuration files and scripts used to build 
 **Update system and apps:** sudo 0Svm-update
 
 **Apps list:** [software](software.md)
-
-**WWW:** https://vm.0ut3r.space

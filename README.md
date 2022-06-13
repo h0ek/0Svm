@@ -4,10 +4,14 @@
 
 This repository contains modified configuration files and scripts used to build and mintaine **0Svm**.
 
-### Credentials
+### Details
 
-**Login:** user 
-**Password:** resu
-**Root password:** resu
+**Login:** hunter
 
-**More details:** https://vm.0ut3r.space
+**Password:** retnuh
+
+**Root password:** retnuh
+
+**Hostnam:** 0Svm
+
+**WWW:** https://vm.0ut3r.space

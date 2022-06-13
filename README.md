@@ -6,6 +6,8 @@ Don't forget to use snapshots. If you break something, you can always return to 
 
 This repository contains modified configuration files and scripts used to build and mintaine **0Svm**.
 
+If the amount of software on Kali is overwhelming you, try **0Svm**.
+
 ### Details
 
 **Login:** hunter

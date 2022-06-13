@@ -14,6 +14,8 @@ This repository contains modified configuration files and scripts used to build 
 
 **Hostnam:** 0Svm
 
-**WWW:** https://vm.0ut3r.space
+**Update system and apps:** sudo 0Svm-update
 
-**Software list:** [software](software.md)
+**Apps list:** [software](software.md)
+
+**WWW:** https://vm.0ut3r.space
